@@ -1,24 +1,29 @@
 # Is Wisdom of the Crowd a Viable Methodology to Predict Financial Markets?
 #### by Justin Cun & Dakshh Saraf
 
-## What is wisdom of the crowd?
+## Introduction - What is wisdom of the crowd?
 
 text
 
 
-## Title 
+## Our Methodology 
 
 text
 
-## Title
+## Chosen Model 
 
 text
 
-## Title
+## Our Results
 
 text
 
-## Title
+## Future Improvements
+
+text
+
+
+## Conclusion
 
 text
 
