@@ -5,7 +5,7 @@
 
 text
 
-![codenames_spymaster_view](img/codenames_game_example_1.png)
+(img/codenames_game_example_1.png)
 
 
 text
