@@ -5,7 +5,7 @@
 
 text
 
-![test](img/codenames_game_example_1.png)
+![insert_image]()
 
 
 text
