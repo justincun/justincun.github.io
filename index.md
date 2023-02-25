@@ -8,9 +8,7 @@ text
 ![insert_image]()
 
 
-text
 
-![codenames_hint_giving](img/codenames_game_example_2.png)
 
 
 
@@ -18,12 +16,7 @@ text
 
 text
 
-![codenames_spymaster_view](img/ai_turns.png)![codenames_spymaster_view](img/ai_accuracy.png)
-
-
-text
-
-## Title
+![insert_image]()![insert_image]()
 
 text
 
@@ -31,11 +24,11 @@ text
 
 text
 
-![codenames_spymaster_view](img/human_turns.png)![codenames_spymaster_view](img/human_accuracy.png)
+## Title
 
-text  
+text
 
-![codenames_spymaster_view](img/ai_acc_v_std.png)
+![insert_image]()
 
 ## Title
 
