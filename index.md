@@ -5,7 +5,7 @@
 
 text
 
-(img/codenames_game_example_1.png)
+![test](img/codenames_game_example_1.png)
 
 
 text
