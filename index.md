@@ -5,21 +5,11 @@
 
 text
 
-![insert_image]()
-
-
-
-
-
 
 ## Title 
 
 text
 
-![insert_image]()![insert_image]()
-
-text
-
 ## Title
 
 text
@@ -27,8 +17,6 @@ text
 ## Title
 
 text
-
-![insert_image]()
 
 ## Title
 
