@@ -28,13 +28,11 @@ text
 
 ## Future Improvements
 
-text
-
+In future iterations, real-time streaming clients like Astra DB and Twitter API could be used to provide more relevant and useful predictions. However, as of February 9th, 2023, Twitter no longer offers free access to its API, making projects that involve collecting data from Twitter impossible at the moment. Despite this limitation, with streaming clients, we could filter specific tickers such as $TSLA and classify hundreds of relevant tweets every second, providing users with up-to-date and actionable information that could inform trading strategies like day or swing trading. 
 
 ## Conclusion
 
-text
-
+Using GPT-3 field embeddings and SVMs, our research classified tweets into Bullish, Bearish, and Neutral sentiments and demonstrated the potential of the wisdom of the crowd. While further research is needed to improve accuracy and usability, our study showcases the potential of natural language processing techniques and sentiment analysis in fields like economics and financial markets.
 
 ## Relevant Links
 If you'd like view the repo, visit this *[Github repository](https://github.com/dsaraf-hub/DSC180A-Capstone_Quarter_2)*. 
