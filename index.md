@@ -1,9 +1,8 @@
 # Predicting Financial Markets with Wisdom of the Crowd
 
-View our full report published using *[Google Docs](https://docs.google.com/document/u/1/d/e/2PACX-1vRPYXEIF40u9JPjKuAMk8yD-Lg7oJndQEGjk-kuN-4e8nr_jCpkNrD2Wu5Fev7K5JCJnlt0lFg_yPBT/pub)*. 
-
 #### by Justin Cun & Dakshh Saraf
 
+View our full report published using *[Google Docs](https://docs.google.com/document/u/1/d/e/2PACX-1vRPYXEIF40u9JPjKuAMk8yD-Lg7oJndQEGjk-kuN-4e8nr_jCpkNrD2Wu5Fev7K5JCJnlt0lFg_yPBT/pub)*. 
 
 ## What is wisdom of the crowd?
 
