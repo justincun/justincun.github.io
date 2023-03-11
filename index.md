@@ -18,7 +18,7 @@ Moreover, using the wisdom of the crowd metholodogy in the context of financial 
 
 To collect data for our analysis, we used a Kaggle dataset of 3.6 million financial tweets collected between 2015 and 2020 for the top 5 tickers in S&P 500. We conducted thorough data cleaning to filter out irrelevant tweets and ensure that only relevant tweets about stocks were analyzed. We also used the Yahoo Financial historical API to obtain historical prices for the respective stock tickers.
 
-![kaggle_dataset](img/Dataset.png)
+![kaggle_dataset](img/kaggle_dataset.png)
 
 
 ## Classification and Model Selection
