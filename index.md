@@ -27,6 +27,7 @@ To collect data for our analysis, we used a Kaggle dataset of 3.6 million financ
 <br />
 
 <img src="./img/yahoo_dataset.png" width="400" height="350">
+<br />
 <em>Yahoo finance dataset which includes percent change in stock price everyday for relevant tickers</em>
 
 
