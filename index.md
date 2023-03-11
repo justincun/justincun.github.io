@@ -21,7 +21,9 @@ To collect data for our analysis, we used a Kaggle dataset of 3.6 million financ
 
 ## Classification and Model Selection
 
-To start our classification, we utilized the GPT-3 field embeddings API to capture the context and meaning of the words in the domain of social media. Next, we asked GPT-3 to label a random subset of 10,000 tweets as Positive, Negative, or Neutral, providing us with a set of labeled data for training our model. Using these GPT-3 embeddings as our input value and GPT-3 labels as output labels, we trained a Support Vector Machine (SVM) to classify the remaining tweets. *We chose to train our own classifier instead of having GPT-3 label every single tweet of the >2 million tweets because it would cost us over $1000* We ultimately passed all the 2 million embedding vectors into the classifier, and were able to label every tweet into “bullish”, “bearish” or “neutral”.
+To start our classification, we utilized the GPT-3 field embeddings API to capture the context and meaning of the words in the domain of social media. Next, we asked GPT-3 to label a random subset of 10,000 tweets as Positive, Negative, or Neutral, providing us with a set of labeled data for training our model.
+
+Using these GPT-3 embeddings as our input value and GPT-3 labels as output labels, we trained a Support Vector Machine (SVM) to classify the remaining tweets. *We chose to train our own classifier instead of having GPT-3 label every single tweet of the >2 million tweets because it would cost us over $1000*. We ultimately passed all the 2 million embedding vectors into the classifier, and were able to label every tweet into “bullish”, “bearish” or “neutral”.
 
 
 ## Our Results
