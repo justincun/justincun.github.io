@@ -21,7 +21,8 @@ To collect data for our analysis, we used a Kaggle dataset of 3.6 million financ
 ![kaggle_dataset](img/kaggle_dataset.png)
 
 
-![kaggle_dataset](img/yahoo_dataset.png=250x250)
+
+<img src="https://github.com/justincun/justincun.github.io/blob/main/img/yahoo_dataset.png" width="48">
 
 
 ## Classification and Model Selection
