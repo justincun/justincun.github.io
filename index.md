@@ -28,7 +28,9 @@ Using these GPT-3 embeddings as our input value and GPT-3 labels as output label
 
 ## Our Results
 
-In our initial findings, we found that the Neutral tweets overpowered our results. Of the initial 10,000 tweets classified using GPT-3, 70% were labeled as neutral which had a significant impact on our results. This bias likely persisted when we trained our SVM classifier on the remaining 2 million tweets. As a result, many of our predictions were also neutral. To address this issue, we decided to remove neutral tweets from our analysis, which resulted in a marked improvement in our results. The confusion matrix for $TSLA showed that our model accurately predicted 75% of the labels when labeling "Positive" or "Negative". Although removing neutral labels resulted in significantly fewer data points, our overall results were much more accurate.
+In our initial findings, we found that the Neutral tweets overpowered our results. Of the initial 10,000 tweets classified using GPT-3, 70% were labeled as neutral which had a significant impact on our results. This bias likely persisted when we trained our SVM classifier on the remaining 2 million tweets. As a result, many of our predictions were also neutral.
+
+To address this issue, we decided to remove neutral tweets from our analysis, which resulted in a marked improvement in our results. The confusion matrix for $TSLA showed that our model accurately predicted 75% of the labels when labeling "Positive" or "Negative". Although removing neutral labels resulted in significantly fewer data points, our overall results were much more accurate.
 
 ## Future Improvements
 
