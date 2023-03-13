@@ -60,6 +60,22 @@ In our initial findings, we found that the Neutral tweets overpowered our result
 
 To address this issue, we decided to remove neutral tweets from our analysis, which resulted in a marked improvement in our results. The confusion matrix for $TSLA showed that our model accurately predicted 75% of the labels when labeling "Positive" or "Negative". Although removing neutral labels resulted in significantly fewer data points, our overall results were much more accurate.
 
+<p align="center">
+<img src="./img/scatter.png">
+<em>2-dimensional scatterplot figure of bullish (gold), bearish (green), and neutral (blue) tweets..</em>
+</p>
+
+
+<p float="left">
+  <img src="./img/heatmap_before.png" width="490" />
+  <img src="./img/heatmap_after.png" width="480" /> 
+</p>
+
+<p align="center">
+*Test caption*
+</p>
+
+
 ## Future Improvements
 
 In future iterations, real-time streaming clients like Astra DB and Twitter API could be used to provide more relevant and useful predictions. However, as of February 9th, 2023, Twitter no longer offers free access to its API, making projects that involve collecting data from Twitter impossible at the moment. Despite this limitation, with streaming clients, we could filter specific tickers such as $TSLA and classify hundreds of relevant tweets every second, providing users with up-to-date and actionable information that could inform trading strategies like day or swing trading. 
