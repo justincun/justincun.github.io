@@ -42,7 +42,11 @@ Using these GPT-3 embeddings as our input value and GPT-3 labels as output label
 <br />
 
 <p align="center">
-<img src="./img/model_arch.png">
+<img src="./img/model_arch.png" width="650">
+</p>
+
+
+<p align="center">
 <em>Diagram of final model architecture</em>
 </p>
 
