@@ -11,7 +11,7 @@ The concept of the wisdom of the crowd pertains to the collective opinion of a d
 
 ## Introduction
 
-Moreover, using the wisdom of the crowd metholodogy in the context of financial markets, we can attempt to prove whether or not it can be a practical approach for market predictions. This is essentialy the inspiration for our research question - "Is wisdom of the crowd a viable methodology to predict financial markets?" Using a medium such as Twitter, we're able to delve deeper into this question by analyzing batches of tweets from popular stock tickers and build predictive models.
+Moreover, using the wisdom of the crowd metholodogy in the context of financial markets, we can attempt to prove whether or not it can be a practical approach for market predictions. This is essentially the inspiration for our research question - "Is wisdom of the crowd a viable methodology to predict financial markets?" Using a medium such as Twitter, we're able to delve deeper into this question by analyzing batches of tweets from popular stock tickers and build predictive models.
 
 
 ## Datasets & Data Cleaning
