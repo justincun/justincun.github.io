@@ -89,7 +89,7 @@ To address this issue, we decided to remove neutral tweets from our analysis, wh
 In future iterations, real-time streaming clients like Astra DB and Twitter API could be used to provide more relevant and useful predictions. However, as of February 9th, 2023, Twitter no longer offers free access to its API, making projects that involve collecting data from Twitter impossible at the moment. Despite this limitation, with streaming clients, we could filter specific tickers such as $TSLA and classify hundreds of relevant tweets every second, providing users with up-to-date and actionable information that could inform trading strategies like day or swing trading. 
 
 <p align="center">
-<img src="./img/future_arch.png" width="650">
+<img src="./img/future_arch.png" width="700">
 </p>
 
 <p align="center">
