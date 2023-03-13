@@ -62,7 +62,10 @@ To address this issue, we decided to remove neutral tweets from our analysis, wh
 
 <p align="center">
 <img src="./img/scatter.png" width="600" >
-<em>2-dimensional scatterplot figure of bullish (gold), bearish (green), and neutral (blue) tweets..</em>
+</p>
+
+<p align="center">
+<em>2-dimensional scatterplot figure of bullish (gold), bearish (green), and neutral (blue) tweets.</em>
 </p>
 
 <p align="center">
