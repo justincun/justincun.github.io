@@ -20,15 +20,18 @@ To collect data for our analysis, we used a Kaggle dataset of 3.6 million financ
 
 <br />
 
-![kaggle_dataset](img/kaggle_dataset.png)
-*Kaggle dataset of 3.6 million unique tweets from the top companies from 2015 to 2020, including Tesla, Google, Apple, Microsoft, and Amazon.*
+<p align="center">
+<img src="./img/kaggle_dataset.png">
+<em>Kaggle dataset of 3.6 million unique tweets from the top companies from 2015 to 2020, including Tesla, Google, Apple, Microsoft, and Amazon.</em>
+</p>
 
 <br />
 
+<p align="center">
 <img src="./img/yahoo_dataset.png" width="400" height="350">
 <br />
 <em>Yahoo finance dataset which includes percent change in stock price everyday for relevant tickers</em>
-
+</p>
 
 ## Classification and Model Selection
 
@@ -38,14 +41,17 @@ Using these GPT-3 embeddings as our input value and GPT-3 labels as output label
 
 <br />
 
+<p align="center">
 <img src="./img/model_arch.png">
 <em>Diagram of final model architecture</em>
+</p>
 
-<br />
 
+<p align="center">
 <img src="./img/labels_dataset.png" width="350" height="400">
 <br />
 <em>Dataset of number of positive, negative, and neutral tweets for each day from 2015-2019</em>
+</p>
 
 
 ## Our Results
