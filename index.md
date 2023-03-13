@@ -61,18 +61,19 @@ In our initial findings, we found that the Neutral tweets overpowered our result
 To address this issue, we decided to remove neutral tweets from our analysis, which resulted in a marked improvement in our results. The confusion matrix for $TSLA showed that our model accurately predicted 75% of the labels when labeling "Positive" or "Negative". Although removing neutral labels resulted in significantly fewer data points, our overall results were much more accurate.
 
 <p align="center">
-<img src="./img/scatter.png">
+<img src="./img/scatter.png" width="600" >
 <em>2-dimensional scatterplot figure of bullish (gold), bearish (green), and neutral (blue) tweets..</em>
 </p>
 
-
+<p align="center">
 <p float="left">
-  <img src="./img/heatmap_before.png" width="490" />
-  <img src="./img/heatmap_after.png" width="480" /> 
+  <img src="./img/heatmap_before.png" width="390" />
+  <img src="./img/heatmap_after.png" width="380" /> 
+</p>
 </p>
 
 <p align="center">
-*Test caption*
+<em><b>Left figure:</b> Heatmap of the Correlation matrix on $TSLA predictions and 3 labels. <b>Right figure:</b> Heatmap of $TSLA predictions after removal of neutral labels. As one can observe, the “True Positive” box on the lower right corner has the highest frequency, implying that our model predicted 75% the right label when labeling “Positive” or “Negative”.</em>
 </p>
 
 
