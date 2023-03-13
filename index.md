@@ -42,9 +42,9 @@ Using these GPT-3 embeddings as our input value and GPT-3 labels as output label
 <em>Diagram of final model architecture</em>
 
 <br />
-<br />
 
 <img src="./img/labels_dataset.png" width="350" height="400">
+<br />
 <em>Dataset of number of positive, negative, and neutral tweets for each day from 2015-2019</em>
 
 
